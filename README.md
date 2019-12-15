@@ -1,5 +1,5 @@
 # react-editor-demo
-A simple Rich-Text-Editor demo
+A simple Rich-Text-Editor demo 基于braft-editor的二次封装
 
 ### 第三方库：braft-editor
 ### 版本：2.3.8
