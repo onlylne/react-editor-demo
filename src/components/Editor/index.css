@@ -1,0 +1,19 @@
+.editor {
+  height: calc(100% - 42px);
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #bbb;
+}
+
+.height100 {
+  height: 100%;
+}
+
+.readStyle :global(.bf-controlbar) {
+  height: 0;
+  overflow: hidden;
+}
+
+:global(.bf-content) {
+  flex-grow: 1;
+}

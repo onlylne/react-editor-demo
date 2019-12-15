@@ -1,0 +1,13 @@
+.normal {
+  position: relative;
+  width: 80vw;
+  height: 100%;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
